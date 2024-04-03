@@ -1,0 +1,1 @@
+nasm -O0 -gstabs -F dwarf -f elf32 text.s -l text.l -o text.o
